@@ -1,0 +1,5 @@
+Belajar GIT
+Berisi :
+- Command dasar pada GIT
+- Pemakaian GITHUB
+- Remote GIT ke GITHUB
